@@ -188,6 +188,7 @@ function App() {
           <div className="footer-contact">
             <span>📧 pharmacistsabot@gmail.com</span>
             <span>📞 036-776240 ต่อ 104</span>
+             <span>พัฒนาโดย ภก.สุรเดช ประถมศักดิ์</span>
           </div>
           <p className="copyright">© {new Date().getFullYear()} สงวนลิขสิทธิ์</p>
         </footer>
